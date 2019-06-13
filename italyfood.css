@@ -102,6 +102,7 @@ section text
 
 table
 {
+	background-image: linear-gradient(to right, #FFB2D9, #00D8FF);
 	color: black;
 	font-family: fantasy;
 	margin-left: 200px;
@@ -134,7 +135,7 @@ button
 
 h3
 {
-	color: #B2CCFF;
+	color: #0100FF;
 }
 
 .tran:hover

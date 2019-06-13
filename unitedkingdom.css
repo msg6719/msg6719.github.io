@@ -97,7 +97,7 @@ section
 
 table
 {
-	color: black;
+	background-image: linear-gradient(to right, #FFD8D8, #6B66FF);
 	font-family: fantasy;
 	margin-left: 100px;
 	margin-right: 100px;

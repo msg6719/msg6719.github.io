@@ -76,6 +76,7 @@ nav
 	padding-top: 20px;
     margin: auto;
     margin-top: 10px;
+    margin-bottom: 100px;
 }
 
 nav li
@@ -86,57 +87,22 @@ nav li
 
 section
 {
+	margin-top: 100px;
+	margin-bottom: 100px;
 	float: left;
 	margin-top: 10px;
-	border: dashed 3px skyblue;
+	border: dashed 3px #0054FF;
 	margin-left: 30px;
 }
 
-aside 
+h3
 {
-	color: blue;
-	background-color:white;
-	float: left;
-	margin-left: 30px;
-	margin-top: 10px;
-	border: solid 1px gold;
-	padding-left: 25px;
-	padding-right: 25px;
+	color: #990085;
 }
 
-aside
+.tran:hover
 {
-	color: brown;
-}
-
-aside li
-{
-	color: green;
-	margin-bottom: 20px;
-}
-
-aside a:link
-{
-  color: green;
-}
-
-aside a:visited
-{
-	color: green;
-}
-
-aside a:active
-{
-  color: green;
-}
-
-footer
-{
-	color: brown;
-	width:1000px;
-	height: 100px;
-	margin-top: 10px;
-	border: solid 1px gold;
+   transform: rotate(45deg);
 }
 
 #adress
