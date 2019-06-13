@@ -1,0 +1,301 @@
+
+
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+body
+{
+	background-color: white;
+}
+
+li
+{
+    list-style-type: none;
+}
+
+a:link
+{
+	color: #ff8224;
+}
+
+a:visited
+{
+	color: #ff8224;
+}
+
+a:hover
+{
+	color:blue;
+}
+
+a
+{
+	text-decoration: none; /* 밑줄이 사라짐 */
+}
+
+.clear
+{
+	clear:both;
+}
+
+header
+{
+  color: black;
+  text-align: center;
+  background-color:white;
+  width: 800px;
+  height: 100px;
+  margin:auto;
+  border: solid 0px gold;
+}
+
+#logo
+{
+	margin-top: 20px;
+	float: left;
+}
+
+#top
+{
+	float: right;
+	margin: 30px 20px 0 0;
+}
+
+nav
+{
+	background-color: white;
+	color:#ff8224;
+    float: left;
+	text-align: center;
+	width: 1000px;
+	height: 50px;
+	border: solid 0px gold;
+	font-size: 20px;
+	padding-top: 20px;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: 210px;
+}
+
+nav li
+{
+	display: inline;
+	margin: 50px;
+}
+
+section
+{
+	
+	float: left;
+	margin-top: 10px;
+	border: dashed 0px skyblue;
+	margin-left: 60px;
+}
+
+.tran:hover
+{
+	  
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+.tran1:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+.tran2:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+.tran3:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+.tran4:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+
+.tran5:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+.tran6:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+
+.tran7:hover
+{
+	  transform:scale(2,2);
+      transition: 1s;
+}
+
+table
+{
+	color: white;
+	font-family: fantasy;
+	background-image:linear-gradient(to bottom, black, red, yellow);
+	background-repeat: repeat;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	
+}
+
+table th
+{
+	padding-top: 100px;
+	padding-right: 100px;
+	padding-left: 100px;
+	padding-bottom: 50px;
+
+}
+
+button
+{
+	background-color: white;
+}
+
+#adress
+{
+	float: left;
+	margin: 30px 0 0 20px;
+}
+
+#customer 
+{
+	float: right;
+	margin: 30px 0 0 180px;
+}
+
+#page
+{
+	width:1000px;
+	margin:auto;
+	//border:solid 1px red;
+}
+
+link:unactive 
+{
+	color: red;
+}
+
+nav:ui
+{
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+
+
+.dropdown:
+		{
+			display:block;
+		}
+
+		.dropdowncontents
+		{
+			color: #CEFBC9;
+			display: none;
+			background-color: white;
+			position: absolute;
+			padding: 10px 20px;
+			border: solid 0px brown;
+			margin-left: 190px;
+		}
+
+		.dropdown:hover .dropdowncontents
+		{
+			display: block;
+		}
+
+		.dropdown ul li 
+		{
+			color: #CEFBC9;
+		}
+
+		.dropdown a:link
+		{
+           color: #FFB2F5;
+		}
+
+		.dropdown a:visited
+		{
+			color: #FFB2F5;
+		}
+
+		.float
+		{
+			float: left;
+		}
+
+.dropdown1:
+		{
+			display:block;
+		}
+
+		.dropdown1 ul li 
+		{
+			color: #CEFBC9;
+		}
+
+		.dropdown1 a:link
+		{
+           color: #CEF279;
+		}
+
+		.dropdown1 a:visited
+		{
+           color: #CEF279;
+		}
+
+
+		.dropdowncontents1
+		{
+			color: #CEFBC9;
+			display: none;
+			background-color: white;
+			position: absolute;
+			padding: 10px 20px;
+			border: solid 0px silver;
+			margin-left: 10px;
+		
+		}
+
+
+		.dropdown1:hover .dropdowncontents1
+		{
+			display: block;
+		}
+
+		.float
+		{
+			float: left;
+			top: 10px;
+			left: 20px;
+		}
+
+
+a:active
+{
+	color:red;
+}
+
