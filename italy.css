@@ -1,4 +1,4 @@
-
+﻿
 
 *
 {
@@ -43,13 +43,14 @@ a
 
 table
 {
+ 	background-color: #B7F0B1;
 	font-family: fantasy;
 	color: black;
-	background-image: linear-gradient(to right, green, white, red);
 	margin-left: 250px;
 	margin-right: 200px;
 	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-bottom: 50px; 
+            border: solid 2px green;
 }
 
 table td
@@ -116,7 +117,7 @@ nav
 	padding-top: 20px;
     margin: auto;
     margin-top: 10px;
-    margin-left: 220px;
+    margin-left: 520px;
 }
 
 nav li

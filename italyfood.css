@@ -1,4 +1,4 @@
-
+﻿
 
 *
 {
@@ -103,9 +103,10 @@ section text
 table
 {
 	background-image: linear-gradient(to right, #FFB2D9, #00D8FF);
-	color: black;
+	width:800px;
+	color: white;
 	font-family: fantasy;
-	margin-left: 200px;
+	margin-left: 560px;
 	margin-right: 200px;
 	margin-top: 50px;
 	margin-bottom: 10px;

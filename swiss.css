@@ -1,4 +1,4 @@
-
+﻿
 
 *
 {
@@ -77,7 +77,7 @@ nav
 	padding-top: 20px;
     margin: auto;
     margin-top: 10px;
-    margin-left: 210px;
+    margin-left: 520px;
 }
 
 nav li
@@ -147,10 +147,11 @@ section
 }
 
 table
-{
-	color: white;
+{		
+	border: solid 2px;
+	color: black;
 	font-family: fantasy;
-	background-image:linear-gradient(to bottom, black, red, yellow);
+	background-color: #B2EBF4;
 	background-repeat: repeat;
 	margin-left: 200px;
 	margin-right: 200px;

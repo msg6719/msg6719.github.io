@@ -1,4 +1,4 @@
-
+﻿
 
 *
 {
@@ -86,23 +86,25 @@ nav li
 }
 
 section
-{
+{	
+	
 	color: black;
 	float: left;
-	margin-top: 10px;
 	border: dashed 0px skyblue;
-	margin-left: 30px;
-	margin-bottom: 30px;
+	
 }
 
 table
 {
-	background-image: linear-gradient(to right, #FFD8D8, #6B66FF);
+ 	border: solid 2px;
+	color: black;
 	font-family: fantasy;
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	background-color: #FAF4C0;
+	background-repeat: repeat;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
 table th
